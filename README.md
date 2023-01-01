@@ -1,4 +1,4 @@
-![logo](![1](https://user-images.githubusercontent.com/106103937/210175504-e7209d37-a2e9-489b-9e7c-0deb05bf3fdb.png)
+![logo](![1](https://user-images.githubusercontent.com/106103937/210175561-10fec763-20a5-41a0-9fbc-a7b0014d9df4.png)
 )
 <h1 align="center">Hi 👋, I'm Samuel Oblika</h1>
 <h3 align="center">I want to be one of the best CyberSecurity</h3>
