@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Samuel Oblika</h1>
 <h3 align="center">I want to be one of the best CyberSecurity</h3>
 
-https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/coding.gif
+<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/106103937/210174812-a06cd4f8-ebb2-43c3-9507-9438c4a252db.png)
+">
+
 
 
 - 🌱 I’m currently learning **Python, Django, CyberSecurity, JavaScript**
