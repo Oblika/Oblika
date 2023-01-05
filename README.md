@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/106103937/210346370-7a03f977-f2be-4085-b484-d24b0e8da766.png)
 
-<h1 align="center">Hi 👋, I'm Oblika</h1>
+<h1 align="center">Hi 👋, I'm Samuel Oblika</h1>
 <h3 align="center">I want to be one of the best CyberSecurity</h3>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/coding.gif">
