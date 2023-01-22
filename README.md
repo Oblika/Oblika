@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Python, Django, CyberSecurity, JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Oblika/Portfolio](https://github.com/Oblika/Portfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/Oblika/Portfolio](https://github.com/Oblika)
 
 - 💬 Ask me about **Python,CyberSecurity**
 
