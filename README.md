@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning **Python, Django, CyberSecurity, JavaScript**
+- 🌱 I’m currently learning **Python, Django, CyberSecurity, **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Oblika/Portfolio](https://github.com/Oblika)
 
